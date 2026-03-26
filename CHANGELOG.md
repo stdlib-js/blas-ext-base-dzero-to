@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
 -   [`9015bd8`](https://github.com/stdlib-js/stdlib/commit/9015bd8546020c055cbd29b093b3a0d43b3c3397) - **feat:** add `blas/ext/base/dzero-to` [(#11146)](https://github.com/stdlib-js/stdlib/pull/11146) _(by Muhammad Haris, Athan Reines)_
 
 </details>
